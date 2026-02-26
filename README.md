@@ -249,9 +249,18 @@ Startup.objects.create(
 
 # 👨‍💻 Contributors
 
-Jeet Lohar – Backend & Admin Dashboard
-Rahul Bisht – Manufacturer Module & Messaging
-Rishabh Chaubey – Investor Module
+* Jeet Lohar – Backend & Admin Dashboard
+* Rahul Bisht – Manufacturer Module & Messaging
+* Rishabh Chaubey – Investor Module
+
+---
+
+## 👨‍💻 My Contribution
+- Backend & Admin Dashboard Development
+- Role-based authentication logic
+- Database schema design
+- Workflow implementation
+- QA - Testing - Fixing
 
 ---
 
